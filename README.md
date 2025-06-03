@@ -35,7 +35,7 @@ The project was divided into three major phases:
 
 ### 3. Model Training and Evaluation
 - Built and evaluated a Random Forest classifier to predict customer churn.
-- Chose Random Forest for its robustness, ability to handle both numerical andcategorical variables, and built-in feature importance metrics.
+- Chose Random Forest for its robustness, ability to handle both numerical and categorical variables, and built-in feature importance metrics.
 - Evaluated model performance using accuracy, precision, recall, F1-score.
 - Learnt about confusion matrix and how to use it to check model evaluation.
 - Determined the importance of the features within the model.
