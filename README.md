@@ -38,46 +38,22 @@ The project was divided into three major phases:
 ---
 
 ### 3. Model Training and Evaluation
-Built and evaluated a Random Forest classifier to predict customer churn.
-
-Chose Random Forest for its robustness, ability to handle both numerical and categorical variables, and built-in feature importance metrics.
-
-Evaluated model performance using accuracy, precision, recall, F1-score, and ROC-AUC.
+- Built and evaluated a Random Forest classifier to predict customer churn.
+- Chose Random Forest for its robustness, ability to handle both numerical andcategorical variables, and built-in feature importance metrics.
+- Evaluated model performance using accuracy, precision, recall, F1-score.
+- Learnt about confusion matrix and how to use it to check model evaluation.
+- Determined the importance of the features within the model.
 
 Interpreted the results to identify the most influential factors contributing to churn.
 
 ---
 
-## ✅ Key Learnings
+## Key Learnings:
 
 * Developed a structured, end-to-end workflow for solving real business problems using data.
 * Strengthened skills in **data preprocessing, feature engineering, and machine learning** with Python.
-* Improved my ability to communicate data insights visually and narratively for stakeholders.
+* Learned how to create executive summary and improved my ability to communicate data insights visually and narratively for stakeholders.
 * Gained experience working on a project simulating the role of a data analyst at **Boston Consulting Group (BCG)**.
 * Learned how to balance model accuracy with business interpretability.
 
 ---
-
-## 📁 Project Files
-
-* `EDA_and_Data_Visualization.ipynb`: Initial analysis and graphs.
-* `Feature_Engineering.ipynb`: Data cleaning, encoding, feature generation.
-* `Model_Training_and_Evaluation.ipynb`: Model building, evaluation, and insights.
-
----
-
-## 🚀 Tools & Technologies
-
-* **Python** (pandas, numpy, matplotlib, seaborn, scikit-learn)
-* **Jupyter Notebook**
-* **Git & GitHub**
-
----
-
-Let me know if you’d like me to:
-
-* Format this directly into a `README.md` file.
-* Help write your LinkedIn post based on this.
-* Add a summary for resumes or portfolio sites.
-
-Would you like to proceed with the README next?
