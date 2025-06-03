@@ -7,10 +7,6 @@ I completed BCG's Data Science on Forage. In the simulation I:
 - Completed the engineering and optimization of a random forest model, achieving an 85% accuracy rate in predicting customer churn.
 - Completed a concise executive summary for the Associate Director, delivering actionable insights for informed decision-making based on the analysis.
 
-Here’s a **professional and detailed long description** that you can use in your GitHub `README.md`, LinkedIn post, or even a project section on your resume or portfolio site.
-
----
-
 During the **BCG Data Analytics Virtual Experience Program** offered via Forage, I worked on a real-world business scenario centered around **customer churn analysis** for a telecommunications company. The objective was to identify customers at risk of churning and develop a predictive model to help the business reduce churn rates and improve retention strategies.
 
 ### 🔍 Project Overview
@@ -55,5 +51,7 @@ Interpreted the results to identify the most influential factors contributing to
 * Learned how to create executive summary and improved my ability to communicate data insights visually and narratively for stakeholders.
 * Gained experience working on a project simulating the role of a data analyst at **Boston Consulting Group (BCG)**.
 * Learned how to balance model accuracy with business interpretability.
+
+( I alone did not do whole work, istead i took some help and guidance with exmaples that were given in this program so i learned many things by looking at the given examples and now i look forward to do some real-world projects on my own.
 
 ---
