@@ -36,7 +36,7 @@ The project was divided into three major phases:
 ### 3. Model Training and Evaluation
 - Built and evaluated a Random Forest classifier to predict customer churn.
 - Chose Random Forest for its robustness, ability to handle both numerical and categorical variables, and built-in feature importance metrics.
-- Evaluated model performance using accuracy, precision, recall, F1-score.
+- Evaluated model performance using accuracy, precision, recall.
 - Learnt about confusion matrix and how to use it to check model evaluation.
 - Determined the importance of the features within the model.
 
@@ -52,6 +52,6 @@ Interpreted the results to identify the most influential factors contributing to
 * Gained experience working on a project simulating the role of a data analyst at **Boston Consulting Group (BCG)**.
 * Learned how to balance model accuracy with business interpretability.
 
-( I alone did not do whole work, istead i took some help and guidance with exmaples that were given in this program so i learned many things by looking at the given examples and now i look forward to do some real-world projects on my own.
+( I alone did not do whole work, instead i took some help and guidance with exmaples that were given in this program so i learned many things by looking at the given examples and now i look forward to do some real-world projects on my own.
 
 ---
